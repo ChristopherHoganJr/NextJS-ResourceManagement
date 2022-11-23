@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "created_at": "Today",
+    "title": "Practice Russian",
+    "description": "Practice at least 1 hour of the Russian language to perfect mastery.",
+    "link": "http://youtube.com",
+    "image": "https://image.com",
+    "priority": 2,
+    "timeToFinish": 60,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "created_at": "Today",
+    "title": "Practice NextJS",
+    "description": "Practice at least 4 hours of the NextJS framework to perfect mastery.",
+    "link": "http://youtube.com",
+    "image": "https://image.com",
+    "priority": 1,
+    "timeToFinish": 240,
+    "status": "inactive"
+  },
+  {
+    "id": 3,
+    "created_at": "Today",
+    "title": "Practice Algorithms",
+    "description": "Practice at least 3 hours of the Javascript Algorithms to perfect mastery.",
+    "link": "http://youtube.com",
+    "image": "https://image.com",
+    "priority": 2,
+    "timeToFinish": 180,
+    "status": "inactive"
+  }
+]
